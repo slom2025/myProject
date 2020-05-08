@@ -27,6 +27,7 @@ while (i < 1) {
     else {
         console.log("Введите ещё раз");
     }
+    i++;
     };   
 
     
