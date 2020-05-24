@@ -69,17 +69,4 @@ let personalMovieDB = {
 
 
 
-/*personalMovieDB.genres[i - 1] = prompt(`Ваш любимый жанр под номером ${i}`);
-            if (i != null && i != '') {
-                
-            } else {
-                i--;
-            }*/
-
-
-            /*let genre = prompt(`Ваш любимый жанр под номером ${i}`);
-            if (genre === '' || genre == null) {
-                i--;
-            } else {
-                personalMovieDB.genres[i - 1] = genre;
-            }*/
+ 
